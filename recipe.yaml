@@ -1,0 +1,7 @@
+id: pukupizza-alpha
+title: Pukupizza Alpha
+together:
+  - pizza-tower
+  - pikuniku
+run:
+  - pikupizza.txt
