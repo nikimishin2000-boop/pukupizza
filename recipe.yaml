@@ -1,7 +1,7 @@
 id: pukupizza-alpha
 title: Pukupizza Alpha
 together:
-  - pizza-tower
+  - minecraft
   - pikuniku
 run:
   - pikupizza.txt
